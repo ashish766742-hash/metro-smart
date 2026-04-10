@@ -1,0 +1,5 @@
+{
+  "name": "Smart Metro Assistant",
+  "description": "A real-time metro journey tracker with voice announcements and route visualization.",
+  "requestFramePermissions": []
+}
